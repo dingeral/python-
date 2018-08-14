@@ -1,4 +1,6 @@
 #-*-coding:utf-8-*-
+
+
 from random import *
 import time
 
@@ -36,6 +38,7 @@ def onemore():
 	one()
 
 	while True:
+		
 		print("再来一次？y or n: ", end="")
 		sr = input()
 
