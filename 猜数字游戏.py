@@ -1,4 +1,7 @@
 #-*-coding:utf-8-*-
+'''
+随机生成一个数字，通过输入判断这个数是多少，并返回猜测次数。
+'''
 
 
 from random import *
@@ -6,11 +9,11 @@ import time
 
 
 def one():
+	
 	s = 0
 	a = randint(0, 100)
 	print("{:-^22}".format("猜数字游戏"))
 	print("请输入一个0～100之间的整数：", end="")
-
 	while True:
 
 		if s > 0:
