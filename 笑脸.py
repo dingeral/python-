@@ -3,10 +3,11 @@
 """
 Created on Thu Jul  5 22:12:54 2018
 
-@author: wxy
+@author: dingeral
 """
 
 import turtle
+
 turtle.pencolor('gold')
 turtle.pensize(4)
 turtle.pu()
