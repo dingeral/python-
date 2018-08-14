@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# 求最大公约数
+'''
+求最大公约数和最小公倍数
+'''
 
 
 def gys(x, y):
