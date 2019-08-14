@@ -9,5 +9,5 @@
 
 ---
 # 目录(2019年8月13日更新)
-- [汉诺塔](https://github.com/dingeral/python-studying/page/hanoi.md) [code](https://github.com/dingeral/python-studying/code/hanoi.py)
+- [汉诺塔](https://github.com/dingeral/python-studying/tree/master/page/hanoi.md) [code](https://github.com/dingeral/python-studying/tree/master/code/hanoi.py)
 
