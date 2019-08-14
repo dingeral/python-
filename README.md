@@ -6,3 +6,8 @@
 * 学习中。
 * 贵有恒，何必三更起五更睡；最无益，只怕一日暴十寒.
 * 如果你有好的建议请告诉我，不胜感激。
+
+---
+# 目录(2019年8月13日更新)
+- [汉诺塔](https://github.com/dingeral/python-studying/page/hanoi.md) [code](https://github.com/dingeral/python-studying/code/hanoi.py)
+
